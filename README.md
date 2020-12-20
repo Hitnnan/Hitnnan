@@ -6,12 +6,12 @@ Atualmente tenho qualificação profissional técnica de Auxiliar de Informátic
 <br><br>
 
 Estou cursando o 2º Módulo, dentre um total de 3, que acaba em meados de Agosto de 2021.<br>
-Recentemente venho aprofundando conhecimentos no ambiente de Back-End.<br>
+Recentemente venho aprofundando conhecimentos na área de Cibersegurança, pois estou trabalhando na certificação de CyberOps Associate, da Cisco.<br>
 
 Sou capaz de criar e realizar:<br>
-:white_check_mark: Landing Pages<br>
-:white_check_mark: Edições em imagens (Photoshop)<br>
-:white_check_mark: Edições em vídeos (com baixa requisição de efeitos gráficos)<br>
+:white_check_mark: Pequenos projetos de sites<br>
+:white_check_mark: Edições em imagens<br>
+:white_check_mark: Edições em vídeos<br>
 :white_check_mark: Consultoria para montagem de Desktops<br>
 :white_check_mark: Montagem do equipamento, caso realize a consultoria comigo ou não
 
