@@ -2,11 +2,11 @@
 
 ## Olá a todos! 👋
 Sou um estudante na área de Informática :computer:, e adoro aprender sobre a Web :globe_with_meridians:.<br>
-Atualmente tenho qualificação profissional técnica de Auxiliar de Informática para Internet pela :school: <a href="https://etelg.com.br">ETEC Lauro Gomes</a>.
+Atualmente tenho qualificação profissional técnica de Auxiliar em Design de Websites pela :school: <a href="https://etelg.com.br">ETEC Lauro Gomes</a>.
 <br><br>
 
-Estou cursando o 2º Módulo, dentre um total de 3, que acaba em meados de Agosto de 2021.<br>
-Recentemente venho aprofundando conhecimentos na área de Cibersegurança, pois estou trabalhando na certificação de CyberOps Associate, da Cisco.<br>
+Estou cursando o 3º Módulo, dentre um total de 3, que acaba em meados de Agosto de 2021.<br>
+Recentemente venho aprofundando conhecimentos na área de Cibersegurança, pois estou trabalhando na certificação de <a href="https://learningnetwork.cisco.com/s/cyberops-associate">CyberOps Associate</a>, da Cisco.<br>
 
 Sou capaz de criar e realizar:<br>
 :white_check_mark: Pequenos projetos de sites<br>
@@ -29,19 +29,3 @@ Caso queira entrar em contato, por gentileza me envie um e-mail.
 <br>
 #### E-mail para contatos não oficiais
 :email: (renanmoreira@bol.com.br)
-<br><br>
-Caso não receba retorno em até 8 horas, é possível me enviar uma mensagem em meu WhatsApp pessoal, +55 (11) 9 4250-3583
-<!--
-**Hitnnan/Hitnnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
