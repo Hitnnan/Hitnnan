@@ -2,11 +2,12 @@
 
 ## Olá a todos! 👋
 Sou um estudante na área de Informática :computer:, e adoro aprender sobre a Web :globe_with_meridians:.<br>
-Atualmente tenho qualificação profissional técnica de Auxiliar em Design de Websites pela :school: <a href="https://etelg.com.br">ETEC Lauro Gomes</a>.
+Me formei em Técnico em Informática para Internet pela :school: <a href="https://etelg.com.br">ETEC Lauro Gomes</a> em 2021.
 <br><br>
 
-Estou cursando o 3º Módulo, dentre um total de 3, que acaba em meados de Agosto de 2021.<br>
-Recentemente venho aprofundando conhecimentos na área de Cibersegurança, pois estou trabalhando na certificação de <a href="https://learningnetwork.cisco.com/s/cyberops-associate">CyberOps Associate</a>, da Cisco.<br>
+Recentemente venho aprofundando conhecimentos na área de Cibersegurança, pois estou trabalhando na certificação de <a href="https://www.netacad.com/pt-br/courses/cybersecurity/network-security">Network Security</a>, da Cisco.<br>
+
+Além desta certificação em andamento, também sou CyberOps Associate, e estou estudando CCNA para em breve partir para o CCNP Security.<br>
 
 Sou capaz de criar e realizar:<br>
 :white_check_mark: Pequenos projetos de sites<br>
@@ -24,8 +25,8 @@ Caso queira saber um pouco mais a meu respeito, que tal visitar meu perfil no Li
 (https://www.linkedin.com/in/renan-moreira-de-lima/)
 
 Caso queira entrar em contato, por gentileza me envie um e-mail.
-#### E-mail rápido
+#### E-mail primário
 :email: (hitnnan@gmail.com)
 <br>
-#### E-mail para contatos não oficiais
+#### E-mail alternativo
 :email: (renanmoreira@bol.com.br)
